@@ -16,6 +16,10 @@ I worked on it together with my friend — ChatGPT 😄
 I focused mainly on the game logic and how everything connects.  
 My friend (ChatGPT) helped me write some system-level modules such as `sys_draw`, `sys_read`, etc.
 
+⚠️ Note: Some features are still in development.
+Examples: Learn app about assembly 64 bit , chat bot , survival game .
+This is an ongoing learning project, and I’m constantly improving it.
+Feel free to explore, learn, or contribute!
 ---
 
 ## 🔧 Build & Run
@@ -27,7 +31,7 @@ My friend (ChatGPT) helped me write some system-level modules such as `sys_draw`
 - Linux or WSL
 
 ### Installation (Ubuntu/WSL):
-bash
+`bash`
 sudo apt update
 sudo apt install nasm qemu-system-x86
 #### Build and run
