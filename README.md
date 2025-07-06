@@ -10,8 +10,7 @@ I worked on it together with my friend — ChatGPT 😄
 - The OS is written entirely in **x86 Assembly**.
 - It runs on QEMU and includes multiple modules like:
   - UI menus
-  - Mini games (2048, X-O)
-  - Player & AI movement
+  - Mini games (2048, X-O, survial_game)
   - Scrolling and input handling
 
 I focused mainly on the game logic and how everything connects.  
