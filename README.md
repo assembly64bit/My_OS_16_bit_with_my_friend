@@ -29,10 +29,10 @@ My friend (ChatGPT) helped me write some system-level modules such as `sys_draw`
 
 ### Installation (Ubuntu/WSL):
 bash
-sudo apt update\
+sudo apt update
 sudo apt install nasm qemu-system-x86
 #### Build and run
 
-git clone https://github.com/assembly64bit/My_OS_16_bit_with_my_friend.git\
+git clone https://github.com/assembly64bit/My_OS_16_bit_with_my_friend.git
 cd My_OS_16_bit_with_my_friend\
 make run
